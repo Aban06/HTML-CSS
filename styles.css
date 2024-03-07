@@ -1,0 +1,22 @@
+h1 {
+    color: grey;
+}
+h3 {
+    color: cadetblue;
+}
+body {
+   background-color: whitesmoke;
+}
+p{
+    color: black;
+}
+p#pertama {
+        color: darkgreen;
+}
+#intro{
+    border: 1px solid;
+    
+}
+table{
+    width: 100px;
+}
